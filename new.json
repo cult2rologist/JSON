@@ -1,0 +1,19 @@
+{
+	"firstName":"Ilya",
+	"lastName":"Mckay",
+	"age": 33,
+	"pets": {
+	"species":"Dog"
+	"number": 1,
+	"petName":"Tyler"
+	},
+	"desiredSalary": [{
+	"amount": 10000,
+	"currency":"USD",
+	"period":"Per month"
+	},
+	{ "amount": 150000,
+	"currency": "USD",
+	"period": "Per year"
+	}]
+}
