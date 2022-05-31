@@ -1,0 +1,17 @@
+{
+	"favorites": {
+		"movies":[
+		"Shawshank Redemption",
+		"Silence of the lambs",
+		"Se7en"
+		],
+		"series":[
+		"Supernatural"
+		"Streets of Broken Lights",
+		"Stranger things"
+		],
+		"food":"pancakes",
+		"season":"spring"
+	},
+	"wishCountry":"New-Zealand"
+}
